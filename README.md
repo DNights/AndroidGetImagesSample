@@ -1,1 +1,1 @@
-# AndroidGetStorageImagesSample
+# AndroidGetImagesSample
