@@ -1,4 +1,4 @@
-package dev.dnights.androidgetstorageimagessample
+package dev.dnights.androidgetimagessample
 
 import org.junit.Test
 
